@@ -10,6 +10,7 @@ namespace DemoConsoleApp
     {
         static void Main(string[] args)
         {
+            int i = 1;
             Console.WriteLine("hello");
         }
     }
