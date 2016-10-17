@@ -14,6 +14,7 @@ namespace DemoConsoleApp
             int k = 5;
             int j = 2;
             int h = 8;
+            int s = 7;
             Console.WriteLine("hello");
         }
     }
