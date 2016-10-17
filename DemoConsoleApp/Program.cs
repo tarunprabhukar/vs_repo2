@@ -13,6 +13,7 @@ namespace DemoConsoleApp
             int i = 1;
             int k = 5;
             int j = 2;
+            int h = 8;
             Console.WriteLine("hello");
         }
     }
